@@ -7,7 +7,7 @@ categories:
 tags:
   - etc
 comments: true
-published: true
+# published: true
 ---
 
 # Writing Math Formulas in Python
