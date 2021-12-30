@@ -51,24 +51,3 @@ order: 2
 
 **My current interests lie in the intersection of data science and logistics/transportation.**
 
----
-
-
-<br>
-
-<div class="me">
-    <div><img src= "/assets/img/me5.jpg"></div>
-    <div><img src= "/assets/img/me6.jpg"></div>
-    <div><img src= "/assets/img/me7.jpg"></div>
-    <div><img src= "/assets/img/me0.jpg"></div>
-    <div><img src= "/assets/img/me2.jpg"></div>
-    <div><img src= "/assets/img/me3.jpg"></div>
-    <div><img src= "/assets/img/me4.jpg"></div>
-    <div><img src= "/assets/img/me8.jpg"></div>
-</div>
-
-  <script>
-    $(document).ready(function(){
-      $('.me').slick();
-    });
-  </script>

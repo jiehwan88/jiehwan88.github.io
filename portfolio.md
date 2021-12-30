@@ -15,7 +15,7 @@ order: 1
 
 
 ## Data-related Work Experience
----
+--- 
 > [Electronic Arts (EA) 2021. 07 – 2021. 08 \| Data Analyst Intern](https://jiehwan94.github.io/project/2021-08-30-QA-Internship-Project/)
 
 
@@ -52,26 +52,3 @@ order: 1
 **My current interests lie in the intersection of data science and logistics/transportation.**
 
 ---
-
-
-<br>
-
-<div class="me">
-    <div><img src= "/assets/img/me5.jpg"></div>
-    <div><img src= "/assets/img/me6.jpg"></div>
-    <div><img src= "/assets/img/me7.jpg"></div>
-    <div><img src= "/assets/img/me0.jpg"></div>
-    <div><img src= "/assets/img/me2.jpg"></div>
-    <div><img src= "/assets/img/me3.jpg"></div>
-    <div><img src= "/assets/img/me4.jpg"></div>
-    <div><img src= "/assets/img/me8.jpg"></div>
-</div>
-
-  <script>
-    $(document).ready(function(){
-      $('.me').slick();
-    });
-  </script>
-
-
-

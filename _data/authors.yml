@@ -8,7 +8,7 @@ jiehwan:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
-  about:             |
+  about:
     간단한 자기소개
     저는 인공지능을 배우고 있는 대학원생입니다.
 

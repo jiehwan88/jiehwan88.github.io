@@ -2,10 +2,8 @@
 layout: post
 title:  "Writing Math Formulas in Python (Linear Algebra)"
 subtitle:   "python"
-categories:
-    - etc
-tags:
-  - etc
+categories: etc
+tags: etc
 comments: true
 # published: true
 ---
