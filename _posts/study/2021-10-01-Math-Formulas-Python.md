@@ -1,6 +1,6 @@
 ---
 layout: post
-bigtitle:  "Writing Math Formulas in Python (Linear Algebra)"
+title:  "Writing Math Formulas in Python (Linear Algebra)"
 subtitle:   "python"
 categories:
     - study
