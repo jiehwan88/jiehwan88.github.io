@@ -3,7 +3,7 @@ layout: post
 title:  "Writing Math Formulas in Python (Linear Algebra)"
 subtitle:   "python"
 categories:
-    - study
+    - etc
 tags:
   - etc
 comments: true

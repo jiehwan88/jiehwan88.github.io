@@ -1,8 +1,8 @@
 ---
 layout: list
-title: Git
-slug: githubpage
+title: etc
+slug: etc
 category: study
 menu: false
-order: 2
+order: 3
 ---

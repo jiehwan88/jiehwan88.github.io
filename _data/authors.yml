@@ -1,9 +1,9 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-vvs:
-  name:              HyunWoo Kim
-  email:             dleo_vvs@kakao.com
+jiehwan:
+  name:              Jiehwan Yang
+  email:             yang4972@umn.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -60,8 +60,8 @@ vvs:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           dleo_vvs@kakao.com
-    rss:             https://khw11044.github.io/feed.xml
+    email:           yang4972@umn.edu
+    # rss:             https://khw11044.github.io/feed.xml
 
 # Another author
 author2:

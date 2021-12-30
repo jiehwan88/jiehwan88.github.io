@@ -1,8 +1,8 @@
 ---
 layout: list
-title: Git
-slug: githubpage
+title: Logistics
+slug: logistics
 category: study
 menu: false
-order: 2
+order: 1
 ---
